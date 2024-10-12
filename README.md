@@ -6,6 +6,11 @@
 
 ![White Minimal Typographic Quote Facebook Video](https://github.com/user-attachments/assets/6aa5438b-7237-45af-8a95-1f7a1825bb3d)
 
+# Presentation(Slides)
+
+- **PPT :** This Google Drive link heads you towards a presentation(ppt) which briefly explains the features available in the application.
+https://docs.google.com/presentation/d/1M6DIvRVX1DseMYRSSHVm2eX1_Sa_-mTz/edit?usp=drive_link&ouid=103631873406982812336&rtpof=true&sd=true
+
 
 
 
